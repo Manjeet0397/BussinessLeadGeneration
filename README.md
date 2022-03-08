@@ -19,3 +19,12 @@ Install necessary library for this project
 ```bash
   pip install matplotlib
 ```
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Manjeet0397/BussinessLeadGeneration
+```
+
